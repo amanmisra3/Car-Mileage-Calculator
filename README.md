@@ -1,4 +1,5 @@
 Car Mileage Calculator website
 
-![image](https://user-images.githubusercontent.com/33937516/140974896-462f9ca7-a4a0-4a70-baff-23dd790ce943.png)
-![image](https://user-images.githubusercontent.com/33937516/140975001-7730b5e8-0402-4ed0-a6fa-645b45d62ca0.png)
+![image](https://user-images.githubusercontent.com/33937516/143028422-3393a80d-3db3-43af-b8ce-d0c6092b24ef.png)
+![image](https://user-images.githubusercontent.com/33937516/143028617-2fe91d7c-0bff-4cbe-a82e-b6de83716e18.png)
+
